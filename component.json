@@ -6,7 +6,7 @@
   "description": "Convert a string to a space case.",
   "keywords": ["space", "case", "spacecase", "string"],
   "dependencies": {
-    "treetopllc/to-no-case": "1.0.0"
+    "treetopllc/to-no-case": "master"
   },
   "development": {
     "component/assert": "*"
